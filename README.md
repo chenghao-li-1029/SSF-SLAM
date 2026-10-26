@@ -45,7 +45,7 @@ Tested under **Libtorch 1.5.1**
 ## Build
 ### Clone the repository
 ```shell script
-git clone https://github.com/Merical/self-supervised-feature-slam.git
+git clone https://github.com/chenghao-li-1029/SSF-SLAM.git
 ```
 
 ### Build the project
